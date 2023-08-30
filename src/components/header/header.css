@@ -1,0 +1,12 @@
+.header a{
+    margin: 50px;
+    padding: 10px;
+    text-decoration: none;
+}
+.header a:hover{
+    background-color: blue;
+}
+.active{
+    background-color: blue;
+    border-radius: 8px;
+}
